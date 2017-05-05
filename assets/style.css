@@ -789,3 +789,7 @@ p {
   display: inline-block;
   vertical-align: middle;
 }
+
+.hero__title h2 {
+   color: white;
+}
